@@ -1,1 +1,0 @@
-# bewise-quiz-api-test
