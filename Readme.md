@@ -3,7 +3,7 @@
 Клонируйте репозиторий и перейдите в рабочую директорию
 
 ```
-git clone https://github.com/joerude/bewise-quiz-api-test
+git clone https://github.com/Anafema-Forge1096/bewise-quiz-api-test.git
 cd bewise-quiz-api-test
 ```
 
